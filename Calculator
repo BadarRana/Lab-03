@@ -4,3 +4,10 @@ a=12;
 b=14;
 x=a+b;
 Console.WriteLine($"The sum of two numbers is {x}");
+y=a-b;
+Console.WriteLine($"the subtract of two number is {y}");
+z=a*b;
+console.WriteLine($"The multiplication if two numbers is {z}");
+p=a/b;
+Console.WriteLine($"The division of two numbers is {p}");
+
